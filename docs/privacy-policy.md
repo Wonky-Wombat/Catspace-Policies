@@ -60,7 +60,7 @@ The Services are **not directed to children under 13**. If we learn that we have
 
 ## 8. Your Rights & Choices
 
-Depending on your jurisdiction, you may have rights to **access, correct, delete, or port** your personal data, and to **object or restrict** certain processing. To exercise these rights, contact us at **[privacy@catspace.app](mailto\:jenflow.app@outlook.com)**.
+Depending on your jurisdiction, you may have rights to **access, correct, delete, or port** your personal data, and to **object or restrict** certain processing. To exercise these rights, contact us at **[jenflow.app@outlook.com](mailto\:jenflow.app@outlook.com)**.
 
 You can disable analytics in the app’s Settings at any time.
 
@@ -70,7 +70,7 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 ## 10. Contact Us
 
-If you have questions about this Privacy Policy or our data practices, please email **[privacy@catspace.app](mailto\:jenflow.app@outlook.com)**.
+If you have questions about this Privacy Policy or our data practices, please email **[jenflow.app@outlook.com](mailto\:jenflow.app@outlook.com)**.
 
 *By using Catspace, you acknowledge that you have read and understood this Privacy Policy.*
 
