@@ -1,76 +1,110 @@
-# Catspace – Privacy Policy
+# Privacy Policy – Catspace
 
-Last updated: 07/13/2025
+_Last Updated: August 9, 2025_
 
-Catspace ("**we**", "**us**", or "**our**") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you download, install, or use the Catspace mobile application and any related services (collectively, the "**Services**"). By using the Services, you agree to the collection and use of information in accordance with this Policy. If you do not agree with the terms of this Policy, please do not use the Services.
+Catspace (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ---
 
 ## 1. Information We Collect
 
-We collect only the information necessary to operate and improve Catspace, **both now and in the future**. Specifically:
+We collect the following categories of information when you use Catspace:
 
-- **Device Information** — device model, operating‑system version, preferred language, and time‑zone. *Used solely for bug diagnostics and performance tuning.*
-- **Usage Data** — anonymous events such as screens visited, button taps, and session duration. *Helps us understand which features users find valuable and where the app can be improved.*
-- **Images You Provide** — the photos you capture or import for cat detection. *These images are used ******only****** for running our AI model and generating predictions. They are processed in memory and ******deleted immediately after inference******; nothing is stored on our servers unless you explicitly attach the image to feedback you send us.*
-- **Subscription & Purchase Data** — Apple‑provided transaction or receipt identifiers. *Needed to validate Pro access and provide customer support.*
-- **Optional Account Data** (if you choose to create an account) — email address and display name. *Used to sync history across devices and respond to support requests.*
+### 1.1 Device Information
+- Device model, operating system version, and other technical identifiers (such as Device IDFA, subject to user consent via App Tracking Transparency).
+- Used for ensuring compatibility, performance optimization, and displaying ads (if consent is given).
 
-We **do not** collect biometric identifiers, precise geolocation, or any information unrelated to providing cat‑detection functionality.
+### 1.2 Usage Data
+- Basic interactions within the app, such as how often certain features are used.
+- This information helps us identify popular features and improve app performance.
+
+### 1.3 Photos You Provide
+- The app requests access to your device's camera and photo library to allow you to capture or select images for cat breed detection.
+- Images submitted for cat breed detection are processed locally or via our servers.
+- **Photos are only used to run the AI model and are deleted from memory immediately after inference**, unless submitted as part of feedback (see Section 3).
+
+### 1.4 Subscription & Purchase Data
+- Purchase history, subscription status, and related transaction receipts.
+- Used for validating purchases and granting access to premium features.
+
+### 1.5 Optional Account Data
+- If you choose to create an optional account (future feature), we may store your display name, email, and saved detection history.
+- This data is used to sync your preferences across devices.
+
+---
 
 ## 2. How We Use Your Information
 
-We use the information we collect to:
+We use collected information solely for:
 
-- **Provide and maintain** the Services, including cat detection and breed analysis.
-- **Process transactions** and manage subscriptions.
-- **Improve** the accuracy of our AI models and overall user experience *(aggregated, de‑identified analytics only).*
-- **Communicate** with you about updates, new features, or support tickets.
-- **Ensure security**, detect fraudulent activity, and enforce our Terms of Use.
+- **App Functionality** – Running AI detection, managing subscriptions, and enabling features.
+- **Performance Analysis** – Identifying bugs, crashes, and usage patterns.
+- **User Support** – Responding to your inquiries or troubleshooting.
+- **Consent-based Advertising** – Showing ads only if you have granted tracking permission (see Section 5).
 
-## 3. On‑Device vs. Cloud Processing On‑Device vs. Cloud Processing
+We **do not** use your personal data for cross-app tracking or sell your data to third parties.
 
-- **By default**, images are processed **locally on your device**.
-- If you enable the optional “Cloud Mode,” images are **securely uploaded** to our servers for enhanced accuracy. Images are **deleted within 24 hours** after processing unless you opt‑in to contribute to model improvement.
+---
 
-## 4. Sharing of Information
+## 3. Feedback Submissions
 
-We do **not sell** your personal data. We may share information only:
+If you use the **Feedback** feature to report a classification error:
+- You may attach the image and the correct cat breed.
+- Submitted images will be stored securely for review and model improvement.
+- We delete these feedback records when they are no longer needed for training purposes.
 
-- With **service providers** (e.g., Apple for in‑app purchases, analytics platforms) who are bound by confidentiality.
-- To comply with **legal obligations** or protect the rights, property, or safety of Catspace or users.
-- With your **explicit consent**.
+---
 
-## 5. Data Retention
+## 4. Third-Party Services
 
-We keep information only for as long as it is needed for the purposes outlined in this Policy:
+We use the following trusted third-party services:
 
-- **Images processed locally** — never leave your device unless you opt‑in to contribute to model improvement.
-- **Images processed in Cloud Mode** — deleted within **24 hours** of inference.
-- **Subscription receipts** — stored for the duration of your subscription **plus 2 years** to meet tax and audit obligations.
-- **Analytics events** — retained for **12 months**, then stored only in aggregated, non‑identifiable form.
+- **AdMob** – Displays ads using Device IDFA (only if you consent via ATT).
+- **Firebase Crashlytics** – Receives anonymized crash reports for diagnostics.
+- **RevenueCat** – Processes subscription validation and manages receipts via anonymous identifiers.
 
-## 6. Security Security
+We do not share user photos or personal identifiers with these services, except as required for their core functionality.
 
-We implement technical and organizational measures such as **SSL encryption**, **least‑privilege access controls**, and **periodic security reviews**. No method of transmission or storage is 100% secure; therefore, we cannot guarantee absolute security.
+---
 
-## 7. Children’s Privacy
+## 5. Tracking & Advertising
 
-The Services are **not directed to children under 13**. If we learn that we have collected personal data from a child under 13 without parental consent, we will delete that information.
+Catspace may request your permission via **App Tracking Transparency (ATT)** to access the Device IDFA for personalized ads.  
+- If you decline, ads (if shown) will be non-personalized.
+- We do not link your device data to other apps or websites for tracking.
 
-## 8. Your Rights & Choices
+---
 
-Depending on your jurisdiction, you may have rights to **access, correct, delete, or port** your personal data, and to **object or restrict** certain processing. To exercise these rights, contact us at **[jenflow.app@outlook.com](mailto\:jenflow.app@outlook.com)**.
+## 6. Data Retention
 
-You can disable analytics in the app’s Settings at any time.
+- **Photos for detection** – Deleted immediately after processing, unless submitted as feedback.
+- **Feedback images** – Retained until processed or deleted upon request.
+- **Crash and analytics data** – Retained only for as long as needed to diagnose and fix issues.
+- **Purchase data** – Retained as required to maintain your subscription access.
+- **Optional account data** – Retained until you request deletion.
 
-## 9. Changes to This Policy
+---
 
-We may update this Privacy Policy periodically. We will notify you of material changes via in‑app notice or by updating the “Last updated” date above. Continued use of the Services constitutes acceptance of the revised Policy.
+## 7. Your Rights
 
-## 10. Contact Us
+You have the right to:
+- Request access to your personal data.
+- Request deletion of your personal data.
+- Withdraw consent for data collection (e.g., revoke ATT permissions).
 
-If you have questions about this Privacy Policy or our data practices, please email **[jenflow.app@outlook.com](mailto\:jenflow.app@outlook.com)**.
+To exercise these rights, contact us at: **jenflow.app@outlook.com**
 
-*By using Catspace, you acknowledge that you have read and understood this Privacy Policy.*
+---
 
+## 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted here, and the “Last Updated” date will be revised.
+
+---
+
+## 9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact:
+
+**Email:** jenflow.app@outlook.com <br>
+**Website:** [https://wonky-wombat.github.io/Catspace-Policies](https://wonky-wombat.github.io/Catspace-Policies)
