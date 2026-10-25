@@ -83,4 +83,4 @@ We may update this Privacy Policy from time to time. Updates will be posted here
 If you have any questions about this Privacy Policy, please contact:
 
 **Email:** jenflow.app@outlook.com <br>
-**Website:** [https://wonky-wombat.github.io/Catspace-Policies](https://wonky-wombat.github.io/Catspace-Policies)
+**Website:** [https://wonky-wombat.github.io](https://wonky-wombat.github.io/)
