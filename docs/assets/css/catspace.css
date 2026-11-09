@@ -30,13 +30,14 @@
 }
 
 *{ box-sizing:border-box; }
+html{ background-color:var(--sky-top); overscroll-behavior-y:none; }
 body{
   margin:0;
   background:
     radial-gradient(900px 760px at 100% 0, var(--sky-glow-a), transparent 72%),
     radial-gradient(760px 900px at 0 42%, var(--sky-glow-b), transparent 72%),
     radial-gradient(900px 800px at 100% 86%, var(--sky-glow-a), transparent 72%),
-    linear-gradient(180deg, var(--sky-top), var(--sky-bottom));
+    linear-gradient(180deg, var(--sky-top), var(--sky-bottom) 50%, var(--sky-top));
   min-height:100vh;
   color:var(--ink-soft);
   font-family:'Nunito',-apple-system,BlinkMacSystemFont,sans-serif;
