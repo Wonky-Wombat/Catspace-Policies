@@ -1,8 +1,8 @@
 # Privacy Policy – Catspace
 
-_Last Updated: November 8, 2026_
+_Last Updated: November 9, 2026_
 
-Catspace (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy explains what information the Catspace mobile application collects, how it is used, and who it is shared with.
+Jenflow Interactive Inc. (“Jenflow”, “we”, “our”, or “us”), the developer of Catspace, is committed to protecting your privacy. This Privacy Policy explains what information the Catspace mobile application collects, how it is used, and who it is shared with.
 
 ---
 
