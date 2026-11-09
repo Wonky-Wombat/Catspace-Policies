@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/catspace.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="sky">
+      <header class="nav">
+        <a class="brand" href="https://wonky-wombat.github.io/">
+          <img src="{{ '/assets/logo.png' | relative_url }}" alt="">
+          <span>Catspace</span>
+        </a>
+        <a class="nav-cta" href="https://apps.apple.com/app/id6748916843">Get the app</a>
+      </header>
+    </div>
+    <main class="doc">
+      {{ content }}
+    </main>
+    <footer>
+      <nav class="legal-links">
+        <a href="https://wonky-wombat.github.io/">Home</a>
+        <a href="https://wonky-wombat.github.io/Catspace-Support/">Support</a>
+        <a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a>
+        <a href="{{ '/terms-of-use' | relative_url }}">Terms of Use</a>
+      </nav>
+      Catspace is made by Jenflow Interactive Inc.
+    </footer>
+  </body>
+</html>
